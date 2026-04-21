@@ -30,6 +30,7 @@ It is especially useful for:
 | Matthew Grennan | *Price Discrimination and Bargaining: Empirical Evidence from Medical Devices* | *American Economic Review* | 2013 | [Open](https://doi.org/10.3886/E112586V1) |
 | Enghin Atalay, Ali Hortaçsu, Chad Syverson | *Vertical Integration and Input Flows* | *American Economic Review* | 2014 | [Open](https://doi.org/10.3886/E112752V1) |
 | Gautam Gowrisankaran, Aviv Nevo, Robert Town | *Mergers When Prices Are Negotiated: Evidence from the Hospital Industry* | *American Economic Review* | 2015 | [Open](https://doi.org/10.3886/E112908V1) |
+| Kate Ho, Robin S. Lee | *Insurer Competition in Health Care Markets* | *Econometrica* | 2017 | [Open](https://www.econometricsociety.org/publications/econometrica/2017/03/01/insurer-competition-health-care-markets/supp/ecta1667-sup-0001-Supplement.pdf) |
 | Pierre Dubois, Laura Lasio | *Identifying Industry Margins with Price Constraints: Structural Estimation on Pharmaceuticals* | *American Economic Review* | 2018 | [Open](https://doi.org/10.3886/E112976V1) |
 | Rocco Macchiavello, Ameet Morjaria | *Competition and Relational Contracts in the Rwanda Coffee Chain* | *The Quarterly Journal of Economics* | 2021 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IGJFVP) |
 | Fernando Luco, Guillermo Marshall | *The Competitive Impact of Vertical Integration by Multiproduct Firms* | *American Economic Review* | 2020 | [Open](https://doi.org/10.3886/E117308V1) |
