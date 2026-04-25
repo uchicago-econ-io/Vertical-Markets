@@ -25,6 +25,7 @@ It is especially useful for:
 
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
+| Silke J. Forbes, Mara Lederman | *Adaptation and Vertical Integration in the Airline Industry* | *American Economic Review* | 2009 | [Open](https://doi.org/10.3886/E113335V1) |
 | Gregory S. Crawford, Ali Yurukoglu | *The Welfare Effects of Bundling in Multichannel Television Markets* | *American Economic Review* | 2012 | [Open](https://doi.org/10.3886/E112510V1) |
 | Robin S. Lee | *Vertical Integration and Exclusivity in Platform and Two-Sided Markets* | *American Economic Review* | 2013 | [Open](https://doi.org/10.3886/E112687V1) |
 | Matthew Grennan | *Price Discrimination and Bargaining: Empirical Evidence from Medical Devices* | *American Economic Review* | 2013 | [Open](https://doi.org/10.3886/E112586V1) |
