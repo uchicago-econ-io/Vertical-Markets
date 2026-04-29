@@ -23,6 +23,9 @@ It is especially useful for:
 
 ## 📦 Replication Packages
 
+## Top 5
+
+
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
 | Silke J. Forbes, Mara Lederman | *Adaptation and Vertical Integration in the Airline Industry* | *American Economic Review* | 2009 | [Open](https://doi.org/10.3886/E113335V1) |
@@ -37,6 +40,22 @@ It is especially useful for:
 | Fernando Luco, Guillermo Marshall | *The Competitive Impact of Vertical Integration by Multiproduct Firms* | *American Economic Review* | 2020 | [Open](https://doi.org/10.3886/E117308V1) |
 | Alexandr Kopytov, Bineet Mishra, Kristoffer Nimark, Mathieu Taschereau-Dumouchel | *Endogenous Production Networks Under Supply Chain Uncertainty* | *Econometrica* | 2024 | [Open](https://zenodo.org/records/12004835) |
 | Vasily Korovkin, Alexey Makarin, Yuhei Miyauchi | *Supply Chain Disruption and Reorganization: Theory and Evidence From Ukraine’s War* | *Review of Economic Studies* | 2025 | [Open](https://zenodo.org/records/16614282) |
+
+## Other
+
+
+| Authors | Paper | Journal | Year | Package |
+|--------|-------|---------|------|---------|
+| Lucas C. Coffman | *Intermediation Reduces Punishment (and Reward)* | *American Economic Journal: Microeconomics* | 2011 | [Open](https://doi.org/10.3886/E114390V1) |
+| Arturs Kalnins, Francine Lafontaine | *Too Far Away? The Effect of Distance to Headquarters on Business Establishment Performance* | *American Economic Journal: Microeconomics* | 2013 | [Open](https://doi.org/10.3886/E114408V1) |
+| Philip G. Gayle | *On the Efficiency of Codeshare Contracts between Airlines: Is Double Marginalization Eliminated?* | *American Economic Journal: Microeconomics* | 2013 | [Open](https://doi.org/10.3886/E114413V1) |
+| Andrzej Baranski | *Voluntary Contributions and Collective Redistribution* | *American Economic Journal: Microeconomics* | 2016 | [Open](https://doi.org/10.3886/E114338V1) |
+| Andre Boik | *Intermediaries in Two-Sided Markets: An Empirical Analysis of the US Cable Television Industry* | *American Economic Journal: Microeconomics* | 2016 | [Open](https://doi.org/10.3886/E114336V1) |
+| Tat‐How Teh, Julian Wright | *Intermediation and Steering: Competition in Prices and Commissions* | *American Economic Journal: Microeconomics* | 2022 | [Open](https://doi.org/10.3886/E118042V1) |
+| Alexander MacKay | *Contract Duration and the Costs of Market Transactions* | *American Economic Journal: Microeconomics* | 2022 | [Open](https://doi.org/10.3886/E119570V1) |
+| William Fuchs, Brett Green, David L. Levine | *Optimal Arrangements for Distribution in Developing Markets: Theory and Evidence* | *American Economic Journal: Microeconomics* | 2022 | [Open](https://doi.org/10.3886/E119564V3) |
+| Luming Chen, Lisa Xuejie Yi, Chuan Yu | *The Welfare Effects of Vertical Integration in China’s Movie Industry* | *American Economic Journal: Microeconomics* | 2024 | [Open](https://doi.org/10.3886/E188165V1) |
+| Sharat Ganapati | *The Modern Wholesaler: Global Sourcing, Domestic Distribution, and Scale Economies* | *American Economic Journal: Microeconomics* | 2025 | [Open](https://doi.org/10.3886/E196761V1) |
 
 
 ---
