@@ -45,7 +45,6 @@ It is especially useful for:
 
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
-
 | Andrew C. Chang | *Inter-Industry Strategic R&D and Supplier-Demander Relationships* | Review of Economics and Statistics | 2013 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0MLOGV) |
 | Renáta Kosová; Francine Lafontaine; Rozenn Perrigot | *Organizational Form and Performance: Evidence from the Hotel Industry* | Review of Economics and Statistics | 2013 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/23985) |
 | Celine Bonnet; Pierre Dubois; Sofia B. Villas Boas; Daniel Klapper | *Empirical Evidence on the Role of Nonlinear Wholesale Pricing and Vertical Restraints on Cost Pass-Through* | Review of Economics and Statistics | 2013 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/REST_A_00267) |
