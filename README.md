@@ -41,8 +41,23 @@ It is especially useful for:
 | Alexandr Kopytov, Bineet Mishra, Kristoffer Nimark, Mathieu Taschereau-Dumouchel | *Endogenous Production Networks Under Supply Chain Uncertainty* | *Econometrica* | 2024 | [Open](https://zenodo.org/records/12004835) |
 | Vasily Korovkin, Alexey Makarin, Yuhei Miyauchi | *Supply Chain Disruption and Reorganization: Theory and Evidence From Ukraine’s War* | *Review of Economic Studies* | 2025 | [Open](https://zenodo.org/records/16614282) |
 
-## Other
+## Review of Economics and Statistics
 
+| Authors | Paper | Journal | Year | Package |
+|--------|-------|---------|------|---------|
+
+| Andrew C. Chang | *Inter-Industry Strategic R&D and Supplier-Demander Relationships* | Review of Economics and Statistics | 2013 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0MLOGV) |
+| Renáta Kosová; Francine Lafontaine; Rozenn Perrigot | *Organizational Form and Performance: Evidence from the Hotel Industry* | Review of Economics and Statistics | 2013 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/23985) |
+| Celine Bonnet; Pierre Dubois; Sofia B. Villas Boas; Daniel Klapper | *Empirical Evidence on the Role of Nonlinear Wholesale Pricing and Vertical Restraints on Cost Pass-Through* | Review of Economics and Statistics | 2013 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/REST_A_00267) |
+| Gee Hee Hong; Nicholas Li | *Market Structure and Cost Pass-Through in Retail* | Review of Economics and Statistics | 2017 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YOMTZT) |
+| Rajkamal Iyer; Zacharias Sautner | *Contracting between Firms: Empirical Evidence* | Review of Economics and Statistics | 2018 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FDEHZY) |
+| Loren Brandt; Feitao Jiang; Yao Luo; Yingjun Su | *Ownership and Productivity in Vertically Integrated Firms: Evidence from the Chinese Steel Industry* | Review of Economics and Statistics | 2022 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2QZHPA) |
+| Eric Barrette; Gautam Gowrisankaran; Robert Town | *Countervailing Market Power and Hospital Competition* | Review of Economics and Statistics | 2022 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TB5D5J) |
+| Christopher Ksoll; Rocco Macchiavello; Ameet Morjaria | *Electoral Violence and Supply Chain Disruptions in Kenya's Floriculture Industry* | Review of Economics and Statistics | 2023 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FMDFYU) |
+| Sangyoon Park; Zhaoneng Yuan; Hongsong Zhang | *Technology Training, Buyer-Supplier Relationship, and Quality Upgrading in an Agricultural Supply Chain* | Review of Economics and Statistics | 2025 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KB6IRZ) |
+
+
+## American Economic Journal: Microeconomics
 
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
