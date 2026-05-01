@@ -72,6 +72,15 @@ It is especially useful for:
 | Sharat Ganapati | *The Modern Wholesaler: Global Sourcing, Domestic Distribution, and Scale Economies* | *American Economic Journal: Microeconomics* | 2025 | [Open](https://doi.org/10.3886/E196761V1) |
 
 
+## Other
+
+| Authors | Paper | Journal | Year | Package |
+|--------|-------|---------|------|---------|
+| Elisa Duran-Micco, Jeffrey M. Perloff | *How large are double markups?* | *International Journal of Industrial Organization* | 2022 | [Open](https://zenodo.org/record/7105676) |
+
+
+
+
 ---
 
 ## Additional Information
