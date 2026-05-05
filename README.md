@@ -76,6 +76,7 @@ It is especially useful for:
 
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
+| Kyle Bagwell, Robert W. Staiger, Ali Yurukoglu | *Multilateral Trade Bargaining: A First Look at the GATT Bargaining Records* | *American Economic Journal: Applied Economics* | 2020 | [Open](https://www.openicpsr.org/openicpsr/project/231457/version/V1/view) |
 | Elisa Duran-Micco, Jeffrey M. Perloff | *How large are double markups?* | *International Journal of Industrial Organization* | 2022 | [Open](https://zenodo.org/record/7105676) |
 
 
