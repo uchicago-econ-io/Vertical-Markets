@@ -10,13 +10,7 @@
 
 ## 🌟 Why This Repo
 
-This repository is meant to make replication work in vertical markets more accessible by providing a centralized collection of datasets and code.
-
-It is especially useful for:
-
-- researchers 
-- students working on industrial organization 
-- instructors building replication-based coursework  
+This repository is meant to make replication work in vertical markets and bargaining more accessible by providing a centralized collection of datasets and code.
 
 
 ---
@@ -82,12 +76,11 @@ It is especially useful for:
 
 
 
-
 ---
 
 ## Additional Information
 
-Our private repository hosts code and datasets from research papers focused on vertical markets. Please complete the form to request access.
+Our private repository hosts code and datasets from research papers focused on vertical markets and bargaining. Please complete the form to request access.
 
 
 
